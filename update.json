@@ -1,43 +1,8 @@
 {
   "version": "0.5.1",
   "required": false,
-  "notes": "Ativação da infraestrutura de atualização automática do Soares Soluções.",
+  "notes": "Versão-base com atualização automática conectada ao repositório oficial do Soares Soluções.",
   "files": [
-    {
-      "name": "app.py",
-      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.1/app.py",
-      "sha256": "993c579062c7153c9852447aedc3842dc066b04954e209a2ff8f4ce0a927f656"
-    },
-    {
-      "name": "auth.py",
-      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.1/auth.py",
-      "sha256": "e300e3bda473a8d909757960ff55011e0ee865b1a2f052a27a140c8927286c71"
-    },
-    {
-      "name": "database.py",
-      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.1/database.py",
-      "sha256": "529d2997e4d042727ac5f9d45f981ee2e619bc6f752d2f54b1728ac33ceb676d"
-    },
-    {
-      "name": "services.py",
-      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.1/services.py",
-      "sha256": "f18b2b86224bb8fd167c70a0956ee2ed64d101d5e3569bd811bad9411d391ac0"
-    },
-    {
-      "name": "excel_import.py",
-      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.1/excel_import.py",
-      "sha256": "4acfa97cabde68c608ad698175c5702c44e15fb759876cba735c9dccf27d73fc"
-    },
-    {
-      "name": "reports.py",
-      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.1/reports.py",
-      "sha256": "05bef356798f82bf9e070948da998de3f0ae0e331215c95d0fec8a3828e85ba6"
-    },
-    {
-      "name": "updater.py",
-      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.1/updater.py",
-      "sha256": "5def9cd39362394e0d3917c0fbed0e2428cace1e5ec51eeeefabdc9d7b322240"
-    },
     {
       "name": "update_config.json",
       "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.1/update_config.json",

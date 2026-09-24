@@ -1,32 +1,27 @@
 {
-  "version": "0.5.5",
+  "version": "0.5.7",
   "required": false,
-  "notes": "Tela inicial conforme a referência enviada, com campos de acesso funcionais e recuperação visual automática.",
+  "notes": "Estúdio Jurídico integrado para Proprietário: Cases, Papers, manuais importados localmente, pesquisa, fontes, versões e Word. O estoque permanece preservado.",
   "files": [
     {
       "name": "app.py",
-      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.5/app.py",
-      "sha256": "ee235a098a29046489447977d42045411433289f6bd701f43f0bbe1f19d532d5"
+      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.7/app.py",
+      "sha256": "92ed17d7a10c9a62cf41cc4a54b2a9035eca7b9e84c243c0e05a4c8a7534c709"
     },
     {
-      "name": "updater.py",
-      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.5/updater.py",
-      "sha256": "8b2ad661af3bac4c69065a66f0d34efe837ce2fa8c1490ebf917ee6d37ec7d3a"
+      "name": "juridico.py",
+      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.7/juridico.py",
+      "sha256": "8a99a3d06a5c0622e11ce667a225ac23e4ac95c1eef0eaf487d64121b2cd5125"
     },
     {
-      "name": "login_bg_100.png",
-      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.5/login_bg_100.png",
-      "sha256": "f0353d58385421c0b8de8e22cfd3043f2574b5463398b11f17253217b42d7026"
+      "name": "juridico_core.py",
+      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.7/juridico_core.py",
+      "sha256": "a12193a982c4304c17096f23c45e8189a3795d80e07d19ec31c80bbac1a32d03"
     },
     {
-      "name": "login_bg_80.png",
-      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.5/login_bg_80.png",
-      "sha256": "f596782a70bd1e5bbc3b342aafc5fd3f410f80f417d02313c6989aee582e593a"
-    },
-    {
-      "name": "login_bg_70.png",
-      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.5/login_bg_70.png",
-      "sha256": "f0aaab517b9b28d36e9232767b232188c8954204ae5e5a1e51ecf05c3387524e"
+      "name": "juridico_vendor.zip",
+      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.7/juridico_vendor.zip",
+      "sha256": "b6d44739b43c25d8c65b9c166c98d3aad5c913349955507394c4a85ff0b5e109"
     }
   ]
 }

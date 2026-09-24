@@ -4,14 +4,19 @@
   "notes": "Nova tela inicial da Soares Soluções e consolidação do fluxo de atualização automática.",
   "files": [
     {
-      "name": "updater.py",
-      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.2/updater.py",
-      "sha256": "3aa8327cdba868872075b7d79fbf822299265f4720239877b95a51664e368b0d"
+      "name": "app.py",
+      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.2/app.py",
+      "sha256": "680f7af309a546c9116adedb7c9109c6b773d6151ab625f3ba0fa69daf8baab3"
     },
     {
-      "name": "login_photo.gif",
-      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.2/login_photo.gif",
-      "sha256": "76680e75f3a2e6c9a84d22f658dae8964204127d295e45bd1c876dabd0a0d6de"
+      "name": "updater.py",
+      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.2/updater.py",
+      "sha256": "9b09db5677256f910c65901fabbb727c61a51b45259b553c7da751d3accdea85"
+    },
+    {
+      "name": "login_photo.b64",
+      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.2/login_photo.b64",
+      "sha256": "c766a67730c430f63ca34f9f59d8401e0c6285c2d844e870935a5b9943a0f3ea"
     }
   ]
 }

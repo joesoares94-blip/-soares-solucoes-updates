@@ -1,12 +1,32 @@
 {
-  "version": "0.5.9",
+  "version": "0.5.10",
   "required": false,
-  "notes": "Menu lateral com botões arredondados e destaque da tela aberta. O Proprietário também pode alterar perfis de usuários entre Administrador, Operador e Consulta.",
+  "notes": "Interface arredondada em botões e campos, preservando o menu do Estúdio Jurídico e a alteração de perfis pelo Proprietário.",
   "files": [
     {
       "name": "app.py",
-      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.9/app.py",
-      "sha256": "7a71dd8583d10848bcb0ecd29493c0cad12352dbb213fb4a41b04e4813a2d941"
+      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.10/app.py",
+      "sha256": "67c32d069546c2bc22614f107ae043cd3c7991a0ec3bde3d4ac6d331ff1856be"
+    },
+    {
+      "name": "juridico.py",
+      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.10/juridico.py",
+      "sha256": "88698f6c927f20cd916ecfad67ce3cbb459c3ec34bde8d2d2f8b23b5461e1f0b"
+    },
+    {
+      "name": "rounded_ui.py",
+      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.10/rounded_ui.py",
+      "sha256": "f782655f0d2d6c5359be30fcfb5320dd11e49f91c77a64b786d11630df6893db"
+    },
+    {
+      "name": "juridico_core.py",
+      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.7/juridico_core.py",
+      "sha256": "a12193a982c4304c17096f23c45e8189a3795d80e07d19ec31c80bbac1a32d03"
+    },
+    {
+      "name": "juridico_vendor.zip",
+      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.7/juridico_vendor.zip",
+      "sha256": "b6d44739b43c25d8c65b9c166c98d3aad5c913349955507394c4a85ff0b5e109"
     },
     {
       "name": "auth.py",

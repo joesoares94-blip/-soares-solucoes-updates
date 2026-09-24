@@ -1,12 +1,17 @@
 {
-  "version": "0.5.1",
+  "version": "0.5.2",
   "required": false,
-  "notes": "Versão-base com atualização automática conectada ao repositório oficial do Soares Soluções.",
+  "notes": "Nova tela inicial da Soares Soluções e consolidação do fluxo de atualização automática.",
   "files": [
     {
-      "name": "update_config.json",
-      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.1/update_config.json",
-      "sha256": "c2bfa3279c33a87cc75effbf53e7188ba58d0592505e4396391ce72509eb56a4"
+      "name": "updater.py",
+      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.2/updater.py",
+      "sha256": "9b09db5677256f910c65901fabbb727c61a51b45259b553c7da751d3accdea85"
+    },
+    {
+      "name": "login_photo.gif",
+      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.2/login_photo.gif",
+      "sha256": "76680e75f3a2e6c9a84d22f658dae8964204127d295e45bd1c876dabd0a0d6de"
     }
   ]
 }

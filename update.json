@@ -1,21 +1,21 @@
 {
-  "version": "0.5.2",
+  "version": "0.5.3",
   "required": false,
-  "notes": "Nova tela inicial da Soares Soluções e consolidação do fluxo de atualização automática.",
+  "notes": "Nova interface de login conforme a referência enviada.",
   "files": [
     {
       "name": "app.py",
-      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.2/app.py",
-      "sha256": "680f7af309a546c9116adedb7c9109c6b773d6151ab625f3ba0fa69daf8baab3"
+      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.3/app.py",
+      "sha256": "6ed04cfc93b6ba2b175a38e97be692ebf6c1963e17ee91c6a24a4d8b9c7d19f3"
     },
     {
       "name": "updater.py",
-      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.2/updater.py",
-      "sha256": "3aa8327cdba868872075b7d79fbf822299265f4720239877b95a51664e368b0d"
+      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.3/updater.py",
+      "sha256": "8b2ad661af3bac4c69065a66f0d34efe837ce2fa8c1490ebf917ee6d37ec7d3a"
     },
     {
       "name": "login_photo.b64",
-      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.2/login_photo.b64",
+      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.3/login_photo.b64",
       "sha256": "c766a67730c430f63ca34f9f59d8401e0c6285c2d844e870935a5b9943a0f3ea"
     }
   ]

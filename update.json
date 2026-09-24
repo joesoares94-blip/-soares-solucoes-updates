@@ -1,16 +1,16 @@
 {
-  "version": "0.5.3",
+  "version": "0.5.4",
   "required": false,
-  "notes": "Nova interface de login conforme a referência enviada.",
+  "notes": "Correção da tela inicial: inclui modo de recuperação visível e verifica atualizações antes do login.",
   "files": [
     {
       "name": "app.py",
-      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.3/app.py",
-      "sha256": "6ed04cfc93b6ba2b175a38e97be692ebf6c1963e17ee91c6a24a4d8b9c7d19f3"
+      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.4/app.py",
+      "sha256": "4ae2b57d2fb993a6bb137c5ac4b82b0ac95d98c05df2d678b84111e6a8901fe3"
     },
     {
       "name": "updater.py",
-      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.3/updater.py",
+      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.4/updater.py",
       "sha256": "8b2ad661af3bac4c69065a66f0d34efe837ce2fa8c1490ebf917ee6d37ec7d3a"
     },
     {

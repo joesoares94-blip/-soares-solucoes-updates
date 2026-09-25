@@ -1,27 +1,12 @@
 {
-  "version": "0.5.12",
+  "version": "0.5.13",
   "required": false,
-  "notes": "Corrige o erro dos campos em Movimentações e o desenho dos botões do menu e Sair. Mantém Estúdio Jurídico e perfis de usuário.",
+  "notes": "Estúdio Jurídico removido do aplicativo. O estoque, os usuários e os dados locais permanecem preservados.",
   "files": [
     {
       "name": "app.py",
-      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.12/app.py",
-      "sha256": "2899e09bd31d59edf4d5f6c4c3b88e60fc22b5538043a0e3f6bc0ee74a64706c"
-    },
-    {
-      "name": "juridico.py",
-      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.11/juridico.py",
-      "sha256": "8a99a3d06a5c0622e11ce667a225ac23e4ac95c1eef0eaf487d64121b2cd5125"
-    },
-    {
-      "name": "juridico_core.py",
-      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.7/juridico_core.py",
-      "sha256": "a12193a982c4304c17096f23c45e8189a3795d80e07d19ec31c80bbac1a32d03"
-    },
-    {
-      "name": "juridico_vendor.zip",
-      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.7/juridico_vendor.zip",
-      "sha256": "b6d44739b43c25d8c65b9c166c98d3aad5c913349955507394c4a85ff0b5e109"
+      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.13/app.py",
+      "sha256": "98177c5ec146e763f1b124d1e664c27058ee269f0f989c71358046bf06354bce"
     },
     {
       "name": "auth.py",

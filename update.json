@@ -1,12 +1,27 @@
 {
-  "version": "0.5.13",
+  "version": "0.6.0",
   "required": false,
-  "notes": "Estúdio Jurídico removido do aplicativo. O estoque, os usuários e os dados locais permanecem preservados.",
+  "notes": "Nova interface com a logo SS escolhida, dashboard e catálogo redesenhados, pesquisa, filtros, ordenação, paginação e campos arredondados. Estoque baixo indica 1 a 5 unidades. Dados e permissões preservados.",
   "files": [
     {
       "name": "app.py",
-      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.13/app.py",
-      "sha256": "98177c5ec146e763f1b124d1e664c27058ee269f0f989c71358046bf06354bce"
+      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.6.0/app.py",
+      "sha256": "e0a80f4afcc60c9d26a7d895f08e16841ed6a814f4a54fc6e0c6cc8a5f5c3777"
+    },
+    {
+      "name": "modern_ui.py",
+      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.6.0/modern_ui.py",
+      "sha256": "1eb6b59e18273ed3773a110008c56a64c13cef53143506f39592c84dbec51909"
+    },
+    {
+      "name": "modern_shell.py",
+      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.6.0/modern_shell.py",
+      "sha256": "8ad18769e943f4fb1ceb783bc27a5e4acc7204e0d35f85710b10097c8d2c6fb2"
+    },
+    {
+      "name": "brand_logo.png",
+      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.6.0/brand_logo.png",
+      "sha256": "7a39b498e4df7ee706d7f9f304c12b5bf797bd18951dc084b4ee4c6a1f6f153f"
     },
     {
       "name": "auth.py",

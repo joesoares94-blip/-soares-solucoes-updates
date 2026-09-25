@@ -1,22 +1,22 @@
 {
-  "version": "0.6.6",
+  "version": "0.6.7",
   "required": false,
-  "notes": "Imagem de depósito em toda a lateral esquerda, mantendo a logo e as cores Soares Soluções. Bordas arredondadas suavizadas e janela ampliada para Full HD em monitores compatíveis. Dados locais preservados.",
+  "notes": "Corrige cantos deformados dos campos, botão Entrar e cartão de acesso. Textos sobre a foto do depósito recebem faixas azuis suaves para leitura. Logo, cores e dados locais preservados.",
   "files": [
     {
       "name": "app.py",
-      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.6.6/app.py",
-      "sha256": "7954230cdbebe21f5d6c71c32abf681a291b6bb3749f08a7e7533c2e41ca9bf2"
+      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.6.7/app.py",
+      "sha256": "9724f98fb12f103e313dd98313b330dd621fb50dd962f30eeedbe11653198dea"
     },
     {
       "name": "modern_ui.py",
-      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.6.6/modern_ui.py",
-      "sha256": "e096bf20b09b3a5357235d44768584ca7f7cc1f4e009a418531546305a19cc92"
+      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.6.7/modern_ui.py",
+      "sha256": "4ce7fc7104819ae138557646bb16b15a17964fa3e90611ed7944c7911af8986d"
     },
     {
       "name": "modern_shell.py",
-      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.6.6/modern_shell.py",
-      "sha256": "a7815ebe7c5bd834d7cb4cc221458f943631d4da750fb104e7a6d70216d87e18"
+      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.6.7/modern_shell.py",
+      "sha256": "444efb36f60792fba5a0645a1349aab4b8d55a69aabff7357e6fdb8290579b9e"
     },
     {
       "name": "brand_logo_login.png",

@@ -1,12 +1,12 @@
 {
-  "version": "0.6.4",
+  "version": "0.6.5",
   "required": false,
-  "notes": "Tela de acesso refeita conforme a referência: logo transparente, cartão arredondado, campos em cápsula e botão Entrar totalmente visível. Dados continuam locais, sem sincronização em nuvem.",
+  "notes": "Correção do login deslocado para fora da tela na 0.6.4. O formulário volta ao centro do cartão; dados locais e movimentações preservados.",
   "files": [
     {
       "name": "app.py",
-      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.6.4/app.py",
-      "sha256": "34b05871693a06f5758fb4185f848f87d171f60a1449b4ee3dfe5dcefd00e4ce"
+      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.6.5/app.py",
+      "sha256": "0de202964e2f2fbbb485d5cd33b26d35340542f3053cbe7d2cce2378e163a073"
     },
     {
       "name": "modern_ui.py",
@@ -15,8 +15,8 @@
     },
     {
       "name": "modern_shell.py",
-      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.6.4/modern_shell.py",
-      "sha256": "b0316365e2f14f22b5f5c3f07fb92db540c7d2e605516222761a275962387441"
+      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.6.5/modern_shell.py",
+      "sha256": "ea98c3ae94ef048efe4d4dbba1266807f157d35bb5aca68a10056b0260a7f0d3"
     },
     {
       "name": "brand_logo_login.png",

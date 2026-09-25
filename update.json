@@ -1,12 +1,12 @@
 {
-  "version": "0.5.11",
+  "version": "0.5.12",
   "required": false,
-  "notes": "Correção de estabilidade: controles do estoque restaurados, com menu arredondado, Estúdio Jurídico e gestão de perfis preservados.",
+  "notes": "Corrige o erro dos campos em Movimentações e o desenho dos botões do menu e Sair. Mantém Estúdio Jurídico e perfis de usuário.",
   "files": [
     {
       "name": "app.py",
-      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.11/app.py",
-      "sha256": "211e1f0ab79a190badce09f389d3e934435c36a437f857b803f4f5de35f10d35"
+      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.12/app.py",
+      "sha256": "2899e09bd31d59edf4d5f6c4c3b88e60fc22b5538043a0e3f6bc0ee74a64706c"
     },
     {
       "name": "juridico.py",

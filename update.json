@@ -1,12 +1,12 @@
 {
-  "version": "0.6.1",
+  "version": "0.6.2",
   "required": false,
-  "notes": "Logo com SOLUÇÕES maior e mais legível. Nova tela de entrada e configuração inicial com a marca SS e fundo institucional, substituindo a foto pessoal. Campos de acesso nativos e opção mostrar senha. Dados e permissões preservados.",
+  "notes": "Correções de integridade do estoque: transferências simultâneas verificam o saldo atualizado, ajustes de inventário sempre geram histórico quando há mudança, e cadastro com estoque inicial é salvo em uma única transação. Histórico com detalhes em português. Inclui logo legível e nova tela de entrada da 0.6.1. Armazenamento local; não há sincronização em nuvem.",
   "files": [
     {
       "name": "app.py",
-      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.6.1/app.py",
-      "sha256": "66171cb11ba818315e3181f5f0dc3992412be99cb3a8abdcc6cbb5217f8e6ba4"
+      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.6.2/app.py",
+      "sha256": "0a491928a6c6171e00694a26dc1e9294cac7d334dc2166eeb3913e31b71385cd"
     },
     {
       "name": "modern_ui.py",
@@ -32,6 +32,11 @@
       "name": "updater.py",
       "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.5/updater.py",
       "sha256": "8b2ad661af3bac4c69065a66f0d34efe837ce2fa8c1490ebf917ee6d37ec7d3a"
+    },
+    {
+      "name": "services.py",
+      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.6.2/services.py",
+      "sha256": "a75a4fc2e43f3c03c6b1e2b81e16a7e77ebbaae33b34a9a5c3ac2e29adc5fe52"
     }
   ]
 }

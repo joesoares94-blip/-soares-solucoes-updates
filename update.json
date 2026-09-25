@@ -1,12 +1,12 @@
 {
-  "version": "0.6.0",
+  "version": "0.6.1",
   "required": false,
-  "notes": "Nova interface com a logo SS escolhida, dashboard e catálogo redesenhados, pesquisa, filtros, ordenação, paginação e campos arredondados. Estoque baixo indica 1 a 5 unidades. Dados e permissões preservados.",
+  "notes": "Logo com SOLUÇÕES maior e mais legível. Nova tela de entrada e configuração inicial com a marca SS e fundo institucional, substituindo a foto pessoal. Campos de acesso nativos e opção mostrar senha. Dados e permissões preservados.",
   "files": [
     {
       "name": "app.py",
-      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.6.0/app.py",
-      "sha256": "e0a80f4afcc60c9d26a7d895f08e16841ed6a814f4a54fc6e0c6cc8a5f5c3777"
+      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.6.1/app.py",
+      "sha256": "66171cb11ba818315e3181f5f0dc3992412be99cb3a8abdcc6cbb5217f8e6ba4"
     },
     {
       "name": "modern_ui.py",
@@ -15,8 +15,8 @@
     },
     {
       "name": "modern_shell.py",
-      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.6.0/modern_shell.py",
-      "sha256": "8ad18769e943f4fb1ceb783bc27a5e4acc7204e0d35f85710b10097c8d2c6fb2"
+      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.6.1/modern_shell.py",
+      "sha256": "82cc1c7b71cd5bb192941c16cc24ff3835d906f1b861b230533620ba6859a87b"
     },
     {
       "name": "brand_logo.png",
@@ -32,21 +32,6 @@
       "name": "updater.py",
       "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.5/updater.py",
       "sha256": "8b2ad661af3bac4c69065a66f0d34efe837ce2fa8c1490ebf917ee6d37ec7d3a"
-    },
-    {
-      "name": "login_bg_100.png",
-      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.5/login_bg_100.png",
-      "sha256": "f0353d58385421c0b8de8e22cfd3043f2574b5463398b11f17253217b42d7026"
-    },
-    {
-      "name": "login_bg_80.png",
-      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.5/login_bg_80.png",
-      "sha256": "f596782a70bd1e5bbc3b342aafc5fd3f410f80f417d02313c6989aee582e593a"
-    },
-    {
-      "name": "login_bg_70.png",
-      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.5.5/login_bg_70.png",
-      "sha256": "f0aaab517b9b28d36e9232767b232188c8954204ae5e5a1e51ecf05c3387524e"
     }
   ]
 }

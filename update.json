@@ -1,22 +1,22 @@
 {
-  "version": "0.6.5",
+  "version": "0.6.6",
   "required": false,
-  "notes": "Correção do login deslocado para fora da tela na 0.6.4. O formulário volta ao centro do cartão; dados locais e movimentações preservados.",
+  "notes": "Imagem de depósito em toda a lateral esquerda, mantendo a logo e as cores Soares Soluções. Bordas arredondadas suavizadas e janela ampliada para Full HD em monitores compatíveis. Dados locais preservados.",
   "files": [
     {
       "name": "app.py",
-      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.6.5/app.py",
-      "sha256": "0de202964e2f2fbbb485d5cd33b26d35340542f3053cbe7d2cce2378e163a073"
+      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.6.6/app.py",
+      "sha256": "7954230cdbebe21f5d6c71c32abf681a291b6bb3749f08a7e7533c2e41ca9bf2"
     },
     {
       "name": "modern_ui.py",
-      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.6.0/modern_ui.py",
-      "sha256": "1eb6b59e18273ed3773a110008c56a64c13cef53143506f39592c84dbec51909"
+      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.6.6/modern_ui.py",
+      "sha256": "e096bf20b09b3a5357235d44768584ca7f7cc1f4e009a418531546305a19cc92"
     },
     {
       "name": "modern_shell.py",
-      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.6.5/modern_shell.py",
-      "sha256": "ea98c3ae94ef048efe4d4dbba1266807f157d35bb5aca68a10056b0260a7f0d3"
+      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.6.6/modern_shell.py",
+      "sha256": "a7815ebe7c5bd834d7cb4cc221458f943631d4da750fb104e7a6d70216d87e18"
     },
     {
       "name": "brand_logo_login.png",
@@ -24,9 +24,9 @@
       "sha256": "8810ea9c238ef10ca52acc330102914a08f6c8bda4825aa300a2609332c864e6"
     },
     {
-      "name": "warehouse_login.png",
-      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.6.3/warehouse_login.png",
-      "sha256": "c8e805ffbf8a906cb2aa0e9bafbddb71fbfe3c7b8e22067b339c473619871937"
+      "name": "warehouse_login_full.png",
+      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.6.6/warehouse_login_full.png",
+      "sha256": "1cdbd61dc6ce03ada202d46933c7963a5b0a70f723ed93e9ab72524b70fd9179"
     },
     {
       "name": "auth.py",

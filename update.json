@@ -1,12 +1,12 @@
 {
-  "version": "0.6.2",
+  "version": "0.6.3",
   "required": false,
-  "notes": "Correções de integridade do estoque: transferências simultâneas verificam o saldo atualizado, ajustes de inventário sempre geram histórico quando há mudança, e cadastro com estoque inicial é salvo em uma única transação. Histórico com detalhes em português. Inclui logo legível e nova tela de entrada da 0.6.1. Armazenamento local; não há sincronização em nuvem.",
+  "notes": "Tela de entrada com ilustração de estoque, logo legível e botão em degradê azul. Mantidas as correções operacionais da 0.6.2. Dados permanecem locais; sincronização em nuvem ainda não está disponível.",
   "files": [
     {
       "name": "app.py",
-      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.6.2/app.py",
-      "sha256": "0a491928a6c6171e00694a26dc1e9294cac7d334dc2166eeb3913e31b71385cd"
+      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.6.3/app.py",
+      "sha256": "d5d87a9ee2b05da3b021e86e95e811cbf7f2fb3831f4b1eccc0ab62eff7ca46d"
     },
     {
       "name": "modern_ui.py",
@@ -15,13 +15,18 @@
     },
     {
       "name": "modern_shell.py",
-      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.6.1/modern_shell.py",
-      "sha256": "82cc1c7b71cd5bb192941c16cc24ff3835d906f1b861b230533620ba6859a87b"
+      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.6.3/modern_shell.py",
+      "sha256": "248360ea7e7a6a3d160271d2e61ca411e54913146e3f8e89c0629c7c872664d4"
     },
     {
       "name": "brand_logo.png",
-      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.6.0/brand_logo.png",
+      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.6.3/brand_logo.png",
       "sha256": "7a39b498e4df7ee706d7f9f304c12b5bf797bd18951dc084b4ee4c6a1f6f153f"
+    },
+    {
+      "name": "warehouse_login.png",
+      "url": "https://raw.githubusercontent.com/joesoares94-blip/-soares-solucoes-updates/main/versions/0.6.3/warehouse_login.png",
+      "sha256": "c8e805ffbf8a906cb2aa0e9bafbddb71fbfe3c7b8e22067b339c473619871937"
     },
     {
       "name": "auth.py",
